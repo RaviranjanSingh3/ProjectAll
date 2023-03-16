@@ -8,6 +8,7 @@ public class Test1 {
 	int a =10;
 //bhfbbfbfhbbhh
   //jdbjsbh,,,sssswsxsdsds
+	int a =12;
 	}
 
 }
