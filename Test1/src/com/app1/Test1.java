@@ -9,6 +9,9 @@ public class Test1 {
 //bhfbbfbfhbbhh
   //jdbjsbh,,,sssswsxsdsds
 	int a =12;
+//int b =905;
+//
+
 	}
 
 }
